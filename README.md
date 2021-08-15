@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ameaaira00
-- 👀 I’m interested in Web Design and Development, Mobile App Dev, Data Science and Software Engineering
+- 👀 I’m interested in Web Design and Development, Mobile App Development, Data Science and Software Engineering
 - 🌱 I’m currently learning Web Dev and Design
 - 📫 You can reach me at aealoveros@up.edu.ph.
 
